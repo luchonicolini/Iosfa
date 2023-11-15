@@ -1,0 +1,458 @@
+[
+    {
+        "id": 1,
+        "name": "Hotel Antartida",
+        "subtitle": "Av. Luro 2156",
+        "image": "mr",
+        "phone": "(0223) 491-5450/54",
+        "city": "Mar del Plata, Buenos Aires",
+        "condition": "Disponible",
+        "category": "Mar del Plata",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "Con más de 60 años de trayectoria, el Hotel Antártida es uno de los hoteles tradicionales de la ciudad. Se encuentra en un lugar privilegiado frente al mar, en pleno corazón de la ciudad, a escasos metros de la peatonal San Martín y a 200 metros del casino. El hotel cuenta con habitaciones individuales, dobles y triples completamente equipadas, así como departamentos para 4 y 5 personas. Además, ofrece servicios de confitería, restaurante y cuenta con cochera propia",
+        "services": {
+            "name": "Servicio 1",
+            "images": [
+                "cerrar-con-llave",
+                "Restaurant",
+                "restaurante",
+                "b4",
+                "b3",
+                "b4"
+            ]
+        },
+        "coordinates": {
+            "latitude": 41.8781,
+            "longitude": -87.6298
+        }
+    },
+    {
+        "id": 2,
+        "name": "Hotel Condor",
+        "subtitle": "Martín Miguel de Güemes 2807",
+        "image": "mr2",
+        "phone": "(223)451-0037/3176",
+        "city": "Mar del Plata, Buenos Aires",
+        "condition": "Disponible",
+        "category": "Mar del Plata",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "Ubicado en el nuevo centro de la ciudad y a solo 10 cuadras de la playa, el Hotel Condor es una excelente propuesta para aquellos que gustan combinar playa con actividades urbanas como; cines, museos y otras actividades de esparcimiento. Ofrece habitaciones dobles, triples y departamentos, además de snack bar, confitería y cocheras propias.",
+        "services": {
+            "name": "Servicio 2",
+            "images": [
+                "image3.jpg",
+                "image4.jpg"
+            ]
+        },
+        "coordinates": {
+            "latitude": 37.7749,
+            "longitude": -122.4194
+        }
+    },
+    {
+        "id": 3,
+        "name": "Hotel Metropol",
+        "subtitle": "Moreno 2470",
+        "image": "mr3",
+        "phone": "(223)495-0050/0069",
+        "city": "Mar de Plata, Buenos Aires",
+        "condition": "Disponible",
+        "category": "Mar del Plata",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "El Hotel Metropol se encuentra ubicado en el centro tradicional de Mar del plata, un punto estratégico para el fácil acceso a cualquier recorrido que desee, a escasos metros de la playa y el casino. Cuenta en sus instalaciones con cuartos dobles, triples, departamentos y suites cálidamente ambientadas, snack bar y cocheras cubiertas.",
+        "services": {
+            "name": "Servicio 3",
+            "images": [
+                "image5.jpg",
+                "image6.jpg"
+            ]
+        },
+        "coordinates": {
+            "latitude": -34.6118,
+            "longitude": -58.4173
+        }
+    },
+    {
+        "id": 4,
+        "name": "Hotel Tierra del Fuego",
+        "subtitle": "Entre Ríos 1525",
+        "image": "mr4",
+        "phone": "(0223) 4915667 / 5668",
+        "city": "Mar de Plata, Buenos Aires",
+        "condition": "Disponible",
+        "category": "Mar del Plata",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "El Hotel Tierra del Fuego cuenta con una ubicación privilegiada en pleno centro de la ciudad, a escasos metros de la peatonal, frente a espacios verdes y con una cautivante vista al mar. En sus instalaciones posee cuartos dobles, triples y departamentos Para 4 y 5 personas, ademas de servicio de confitería y restaurant.",
+        "services": {
+            "name": "Servicio 3",
+            "images": [
+                "image5.jpg",
+                "image6.jpg"
+            ]
+        },
+        "coordinates": {
+            "latitude": -34.6118,
+            "longitude": -58.4173
+        }
+    },
+    {
+        "id": 5,
+        "name": "Estancia Golf Ascochinga",
+        "subtitle": "E53, 60 Km al norte de Córdoba Ciudad",
+        "image": "sierra1",
+        "phone": "03525-492017 / 492092",
+        "city": "Sierras Chicas",
+        "condition": "Disponible",
+        "category": "Sierras de Cordoba",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "El complejo turístico Ascochinga cuenta con una superficie de 3,800 hectáreas, que ofrecen la posibilidad de realizar trekking familiar, trekking de aventura y disfrutar el caudal del río serrano, con sus caídas naturales y pequeñas playas, en el balneario privado de uso exclusivo para sus huéspedes. Cuenta en sus instalaciones con habitaciones dobles, triples y departamentos familiares. Además del valor agregado de sus canchas de tennis, paddle, paleta, papi futbol y Golf de 18 hoyos, confitería, gimnasio, piscina con bar, parque con juegos infantiles y juegos de mesa.",
+        "services": {
+            "name": "Servicio 3",
+            "images": [
+                "image5.jpg",
+                "image6.jpg"
+            ]
+        },
+        "coordinates": {
+            "latitude": -34.6118,
+            "longitude": -58.4173
+        }
+    },
+    {
+        "id": 6,
+        "name": "Colonia Costanera Cosquin",
+        "subtitle": "Acceso Ruta Nac.Nº 38",
+        "image": "sierra2",
+        "phone": "03541-459531",
+        "city": "Valle De Punilla",
+        "condition": "Cerrada por refacciones.",
+        "category": "Sierras de Cordoba",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "Ubicada en la vera del Rio Cosquin, la Colonia Costanera Cosquin posee un amplio parque y un balneario propio de uso exclusivo para sus huéspedes. Además posee canchas de futbol, tenis, paddle, bar, restaurant y sala de juegos. Sus instalaciones cuentan con habitaciones dobles, triples, cuadruples y departamentos familiares completamente equipados",
+        "services": {
+            "name": "Servicio 3",
+            "images": [
+                "image5.jpg",
+                "image6.jpg"
+            ]
+        },
+        "coordinates": {
+            "latitude": -34.6118,
+            "longitude": -58.4173
+        }
+    },
+    {
+        "id": 7,
+        "name": "Colonia Miraflores",
+        "subtitle": "Acceso Ruta Prov. Nº 5/ Camino a Yacanto de Calamuchita",
+        "image": "sierra3",
+        "phone": "03571-501604 / 501616",
+        "city": "Valle De Calamuchita",
+        "condition": "Cerrada por refacciones.",
+        "category": "Sierras de Cordoba",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "la Colonia Miraflores se compone de 15 hectáreas de espacios verdes enmarcados por los bellos paisajes del Valle de Calamuchita. Sus instalaciones cuentan con bungalows para 6 personas y cabañas para 7 completamente equipadas, balneario privado a orillas del rio, pileta, bar, restaurant y proveeduría.",
+        "services": {
+            "name": "Servicio 3",
+            "images": [
+                "image5.jpg",
+                "image6.jpg"
+            ]
+        },
+        "coordinates": {
+            "latitude": -34.6118,
+            "longitude": -58.4173
+        }
+    },
+    {
+        "id": 8,
+        "name": "Residencia Cosquín",
+        "subtitle": "Avenida Capitán Omar J. Castillo S/N°",
+        "image": "sierra4",
+        "phone": "03541-451433 / 454598",
+        "city": "Valle De Calamuchita",
+        "condition": "Cerrada por refacciones.",
+        "category": "Sierras de Cordoba",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "Ubicada en la base del cerro Pan de Azúcar, la Residencia Cosquín cuenta con un encantador paisaje serrano ideal para realizar actividades de running, trekking y cabalgata.En sus instalaciones cuenta con departamentos independientes (pet friendly – apto mascotas) y habitaciones equipadas para recibir personas con movilidad reducida. Amplio parque y pileta de natación. Salón confitería apto para eventos. Las habitaciones cuentan con frigobar, aire acondicionado frío/calor, secador de cabello, caja de seguridad, lcd.",
+        "services": {
+            "name": "Servicio 3",
+            "images": [
+                "image5.jpg",
+                "image6.jpg"
+            ]
+        },
+        "coordinates": {
+            "latitude": -34.6118,
+            "longitude": -58.4173
+        }
+    },
+    {
+        "id": 9,
+        "name": "Hostería Villa General Belgrano",
+        "subtitle": "Ruta Provincial 109",
+        "image": "sierra5",
+        "phone": "(3546) 54-0416",
+        "city": "Valle de Calamuchita",
+        "condition": "Cerrada por refacciones.",
+        "category": "Sierras de Cordoba",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "Ubicado en el Valle de Calamuchita y rodeada por un imponente paisaje de sierras y bosques frondosos, la Hosteria Villa General Belgrano posee un balneario exclusivo en la costa sur del río Los Reartes Y cuenta en sus instalaciones con bar y asadores propios a disposición de los huéspedes.",
+        "services": {
+            "name": "Servicio 3",
+            "images": [
+                "image5.jpg",
+                "image6.jpg"
+            ]
+        },
+        "coordinates": {
+            "latitude": -34.6118,
+            "longitude": -58.4173
+        }
+    },
+    {
+        "id": 10,
+        "name": "Parador Almirante Brown",
+        "subtitle": "Ruta Provincial 5, Km 106",
+        "image": "sierra6",
+        "phone": "(03546) 497062 / 497283",
+        "city": "Villa del Dique, Córdoba",
+        "condition": "Cerrada por refacciones.",
+        "category": "Sierras de Cordoba",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "El parador Alte. Brown se encuentra ubicado en la zona serrana del Valle de Calamuchita, frente al espejo de agua del Embalse Río Tercero en el cual posee 3 Km de costa privada, que suma a sus 52 hectáreas de espacios verdes.Las instalaciones cuentan con habitaciones dobles y triples, departamentos para 4 y 5 personas, cabañas para 2, 4 y hasta 6 personas completamente equipadas, pileta de natación, canchas de fútbol, tenis, alquiler de caballos, bicicletas, restauran y actividades de recreación programadas durante los meses del verano.",
+        "services": {
+            "name": "Servicio 3",
+            "images": [
+                "image5.jpg",
+                "image6.jpg"
+            ]
+        },
+        "coordinates": {
+            "latitude": -34.6118,
+            "longitude": -58.4173
+        }
+    },
+    {
+        "id": 11,
+        "name": "Residencia Serrana La Falda",
+        "subtitle": "Avenida Ferrarini 1992",
+        "image": "sierra7",
+        "phone": "03548-422016",
+        "city": "La Falda, Córdoba",
+        "condition": "Cerrada por refacciones.",
+        "category": "Sierras de Cordoba",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "Ubicado al pie del Camino del Cuadrado, principal ruta de acceso entre el área de Sierras Chicas y el Valle de Punilla, fuente de atractivas vistas panorámicas y bellisimos paisajes.La Residencia Serrana La Falda posee una oferta tanto de habitaciones como departamentos y cuenta en sus instalaciones con 5 hectáreas de bosques, parques y jardines, además de pileta de natación, canchas de futbol, tenis, volley, paddle, comedor, confitería y quinchos con asadores.",
+        "services": {
+            "name": "Servicio 3",
+            "images": [
+                "image5.jpg",
+                "image6.jpg"
+            ]
+        },
+        "coordinates": {
+            "latitude": -34.6118,
+            "longitude": -58.4173
+        }
+    },
+    {
+        "id": 12,
+        "name": "Hotel Ushuaia",
+        "subtitle": "Av. Córdoba 350, CABA",
+        "image": "bs",
+        "phone": "(011) 4312 4811",
+        "city": "Buenos Aires",
+        "condition": "Cerrada por refacciones.",
+        "category": "Buenos Aires",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "El Hotel Ushuaia se encuentra en el centro financiero de la ciudad,cerca del tradicional centro comercial de la calle florida y a escasos metros la avenida Corrientes, arteria principal del paseo cultural que integran los teatros, locales gastronómicos y librerías de la zona.Sus instalaciones ofrecen habitaciones singles, dobles y triples, departamentos para 4 personas y suites completamente equipadas.",
+        "services": {
+            "name": "Servicio 3",
+            "images": [
+                "image5.jpg",
+                "image6.jpg"
+            ]
+        },
+        "coordinates": {
+            "latitude": -34.6118,
+            "longitude": -58.4173
+        }
+    },
+    {
+        "id": 12,
+        "name": "Residencia Serrana La Falda",
+        "subtitle": "Avenida Ferrarini 1992",
+        "image": "sierra7",
+        "phone": "03548-422016",
+        "city": "La Falda, Córdoba",
+        "condition": "Cerrada por refacciones.",
+        "category": "Sierras de Cordoba",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "Ubicado al pie del Camino del Cuadrado, principal ruta de acceso entre el área de Sierras Chicas y el Valle de Punilla, fuente de atractivas vistas panorámicas y bellisimos paisajes.La Residencia Serrana La Falda posee una oferta tanto de habitaciones como departamentos y cuenta en sus instalaciones con 5 hectáreas de bosques, parques y jardines, además de pileta de natación, canchas de futbol, tenis, volley, paddle, comedor, confitería y quinchos con asadores.",
+        "services": {
+            "name": "Servicio 3",
+            "images": [
+                "image5.jpg",
+                "image6.jpg"
+            ]
+        },
+        "coordinates": {
+            "latitude": -34.6118,
+            "longitude": -58.4173
+        }
+    },
+    {
+        "id": 13,
+        "name": "Hotel Islas Malvinas",
+        "subtitle": "Av. San Martín Nº 698",
+        "image": "bar",
+        "phone": "442-2923/443-3619",
+        "city": "Bariloche, Río Negro",
+        "condition": "Cerrada por refacciones.",
+        "category": "Bariloche",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "Ubicado frente al lago Nahuel Huapi y a escasas 6 cuadras del centro cívico de la ciudad de Bariloche, el Hotel Islas Malvinas cuenta en sus instalaciones con habitaciones singles, dobles, triples y cuádruples, algunas de las cuales poseen una encantadora vista al lago. Además de 2 departamentos de 4 plazas, confitería, restaurant y estacionamiento.",
+        "services": {
+            "name": "Servicio 3",
+            "images": [
+                "image5.jpg",
+                "image6.jpg"
+            ]
+        },
+        "coordinates": {
+            "latitude": -34.6118,
+            "longitude": -58.4173
+        }
+    },
+    {
+        "id": 14,
+        "name": "Cabañas Islas Malvinas",
+        "subtitle": "Av. Bustillo Km 15",
+        "image": "bar2",
+        "phone": "(294) 442-2923/436-9364",
+        "city": "Bariloche, Río Negro",
+        "condition": "Cerrada por refacciones.",
+        "category": "Bariloche",
+        "gallery": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "description": "Ubicado camino al Llao-Llao, a escasos 15 Km del centro cívico de Bariloche y junto al lago Nahuel Huapi. El complejo de cabañas Islas Malvinas ofrece cabañas de 2 y 3 plazas completamente equipadas, combinando tranquilidad y armonía de la naturaleza, con la comodidad del fácil acceso a la ciudad.",
+        "services": {
+            "name": "Servicio 3",
+            "images": [
+                "image5.jpg",
+                "image6.jpg"
+            ]
+        },
+        "coordinates": {
+            "latitude": -34.6118,
+            "longitude": -58.4173
+        }
+    }
+    
+]
+
